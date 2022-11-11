@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="prueba.css">
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css" type="text/css">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css' rel='stylesheet' />
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap" rel="stylesheet">
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js'></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="~/css/IndexS.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/StyleNewst.css" />
+    <script src="~/js/news.js"></script>
+    <link href="/img/logo.png" rel="icon" type="image/x-icon" />
+    <link rel="icon" src="@Url.Content("/img/logo.png")" />
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/Chat.js"></script>
+
+    <title>Desapp</title>
+</head>
+<body onload="obtenerDatos()">
+    <div style="text-align: right;">
+        <div id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div>
+    <header>
+        <div class="cabeza">
+            <a href="~/HomePage/HomePage">Logout</a>
+            <a href="~/Desapp/Index">Register Missing</a>
+            <a href="~/Home/Chats">Chat</a>
+        </div>
+        <section class="textos-header">
+            <h1>DesApp</h1>
+            <h2>United for our disappeared</h2>
+        </section>
+        <div style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-21.72,4.47 C219.24,252.14 329.28,-103.11 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #1F1C2C;"></path></svg></div>
+    </header>
+
+    <div class="palmapa">
+        <div id='mapa'></div>
+    </div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js'></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="funciones.js"></script>
+
+    <h1 class="title" style="color: white">¡News Recently!</h1>
+    <div class="row" id="divListadoNoticias"></div>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Phone</h4>
+                <p>3157947418</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>Desapp@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Location</h4>
+                <p>Facatativa, Cundinamarca</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Universidad de Cundinamarca | Desapp</h2>
+    </footer>
+</body>
+</html>

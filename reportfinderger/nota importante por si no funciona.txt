@@ -1,0 +1,3 @@
+Porfe por si no le funciona debe descargar la siguiente funcion de reportes del visual studio 2022
+https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio2022
+Descargar e instalar profe !!

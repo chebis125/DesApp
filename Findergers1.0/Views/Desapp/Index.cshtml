@@ -1,0 +1,52 @@
+﻿@model List<Findergers1._0.Models.ViewModels.ListMissing>
+
+@{
+    ViewBag.Title = "Missings";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table">
+            <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Description</th>
+                <th>Date</th>
+                <th>Last location</th>
+                
+                <th> </th>
+            </tr>
+            @foreach (var oElemento in Model)
+            {
+                <tr>
+                    <td>@oElemento.Id_Missing</td>
+                    <td>@oElemento.Name_Missing</td>
+                    <td>@oElemento.Age_Missing</td>
+                    <td>@oElemento.Description_Missing</td>
+                    <td>@oElemento.Date_Missing</td>
+                    <td>@oElemento.Lastlocation_Missing</td>
+                    
+                    <td>
+                        <a class="btn btn-default" href="~/Desapp/Edit/@oElemento.Id_Missing">Edit</a>
+                        <a class="btn btn-danger" href="~/Desapp/Delete/@oElemento.Id_Missing">Delete</a>
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+</div>
+
+<tr>
+    <td>
+        <a href="/Desapp/NewMissing" class="btn btn-primary">Nuevo Registro</a>
+    </td>
+</tr>
+
+
+

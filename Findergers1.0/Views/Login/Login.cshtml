@@ -1,0 +1,71 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Findergers1._0.Models.IniciarSesion
+
+@{
+    Layout = null;
+}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="~/css/login-register/login.css" rel="stylesheet" />
+    <link href="/img/logo.png" rel="icon" type="image/x-icon" />
+    <link rel="icon" src="@Url.Content("/img/logo.png")" />
+</head>
+<body>
+
+    <main>
+        <div class="titulo_1">
+            LOGIN
+        </div>
+        <div class="titulo">
+            LOGIN
+        </div>
+        <p class="text">
+            Forgotten your password or you login datails?
+            <a href="~/Login/StarRecovery">Get help</a> signing in
+            <form action="@Url.Action("Login","Login")" method="post" class="formulario" id="formulario">
+
+                <!-- Grupo: Username -->
+                <div class="formulario__grupo" id="grupo__Username">
+                    <label for="Username" class="formulario__label">Username</label>
+                    <div class="formulario__grupo-input">
+                        <input type="text" class="formulario__input" name="Username" id="Username" placeholder="LuchitoDiaz">
+                        <i class="formulario__validacion-estado fas fa-times-circle"></i>
+                    </div>
+                    <p class="formulario__input-error">The username can take letters, numbers and can not take accents.</p>
+                </div>
+
+                <!-- Grupo: Password -->
+                <div class="formulario__grupo" id="grupo__Password">
+                    <label for="Password" class="formulario__label">Password</label>
+                    <div class="formulario__grupo-input">
+                        <input type="password" class="formulario__input" name="Password" id="Password">
+                        <i class="formulario__validacion-estado fas fa-times-circle"></i>
+                    </div>
+                    <p class="formulario__input-error">Insert a password with 4 to 16 characters.</p>
+                </div>
+
+                <div class="formulario__mensaje" id="formulario__mensaje">
+                    <p><i class="fas fa-exclamation-triangle"></i> <b>Error:</b> User not found </p>
+                </div>
+
+                <div class="formulario__grupo formulario__grupo-btn-enviar">
+                    <button type="submit" class="formulario__btn" id="btn">Ingresar</button>
+                    <p class="formulario__mensaje-exito" id="formulario__mensaje-exito">User foud correctly!</p>
+                </div>
+            </form>
+    </main>
+
+    <script src="~/js/Login-Register/ScriptLogin.js"></script>
+    <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+</body>
+</html>

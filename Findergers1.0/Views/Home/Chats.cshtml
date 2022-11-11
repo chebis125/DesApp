@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+<html lang="en">
+<head>
+    <link href="/img/logo.png" rel="icon" type="image/x-icon" />
+    <link rel="icon" src="@Url.Content("/img/logo.png")" />
+    <title>Desapp</title>
+</head>
+<body>
+    
+    <link href="~/css/Chats/stylesChats.css" rel="stylesheet" />
+    <div class="block">
+        <div class="caja-chat">
+            <div class="chat">
+                <div class="datos-chat">
+                    <h4>Your connection ID</h4>
+                    <p id="connectionId"></p>
+                    <h4>User</h4>
+                    <input type="text" id="userInput" placeholder="Ex: Kevin" />
+                    <h4>Receiver Id</h4>
+                    <input type="text" id="receiverId" placeholder="Enter an user ID" />
+
+                </div>
+            </div>
+        </div>
+        <ul id="messagesList"></ul>
+        <textarea id="messageInput" placeholder="Write here"></textarea>
+    </div>
+    <div class="botones">
+        <button id="sendToUser" class="btn">Send to User</button>
+        <button id="sendButton" class="btn">Send to All</button>
+        <a id="Whatsapp" class="btn" class="w" href="~/Home/Whatsapp">Send Whatsapp</a>
+    </div>
+</body>
+</html>

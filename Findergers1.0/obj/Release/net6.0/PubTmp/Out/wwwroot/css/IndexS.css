@@ -1,0 +1,115 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Special+Elite&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Pangolin', cursive;
+    background: #1F1C2C;
+}
+
+header {
+    width: 100%;
+    height: 600px;
+    background: #70e1f5;
+    background: -webkit-linear-gradient(to right, hsla(250, 15%, 61%, 0.6), hsla(251, 22%, 14%, 0.6)), url(https://www.agenciapi.co/sites/default/files/styles/imagen_principal_contenidos_2021/public/2021-08/desaparecidos.jpg?h=d1cb525d&itok=CHaVuebU);
+    background: linear-gradient(to right, hsla(250, 15%, 61%, 0.6), hsla(251, 22%, 14%, 0.6)), url(https://www.agenciapi.co/sites/default/files/styles/imagen_principal_contenidos_2021/public/2021-08/desaparecidos.jpg?h=d1cb525d&itok=CHaVuebU);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.cabeza {
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
+
+    .cabeza > a {
+        color: #fff;
+        font-weight: 300;
+        text-decoration: none;
+        margin-right: 10px;
+        background: none;
+    }
+
+        .cabeza > a:hover {
+            text-decoration: underline;
+        }
+
+header .textos-header {
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Special Elite', cursive;
+}
+
+.textos-header h1 {
+    font-size: 150px;
+    color: #fff;
+}
+
+.textos-header h2 {
+    font-size: 30px;
+    font-weight: 300;
+    color: #fff;
+}
+
+.wave {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer {
+    background: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.contenedor-footer {
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content-foo {
+    text-align: center;
+}
+
+    .content-foo h4 {
+        color: #fff;
+        border-bottom: 3px solid #009dff99;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+    }
+
+    .content-foo p {
+        color: #ccc;
+    }
+
+.titulo-final {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #9e9797;
+}
+
+span {
+    border-radius: 10px;
+    font-family: 'Pangolin', cursive;
+    font-size: 15px;
+}

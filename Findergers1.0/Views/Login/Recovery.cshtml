@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Findergers1._0.Models.RecoveryPass
+@{
+    ViewBag.Title = "Recovery";
+}
+
+<link href="~/css/login-register/login.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-md-6 offset-3">
+        <div class="form-style">
+            <form action="@Url.Content("~/Login/Recovery")" method="post">
+
+                @Html.HiddenFor(d => d.token)
+                <label> Escribe tu nueva contraseña</label>
+                @Html.PasswordFor(d => d.Password, new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Password, null, new { style = "color:red;" })
+                <br />
+                <label> Escribe de nuevo tu nueva contraseña</label>
+                @Html.PasswordFor(d => d.ConfirmPassword, new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.ConfirmPassword, null, new { style = "color:red;" })
+                <br />
+                <div class="text-right">
+                    <button class="btn btn-primary"> Recuperar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

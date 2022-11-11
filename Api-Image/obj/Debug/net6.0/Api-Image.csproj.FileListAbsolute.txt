@@ -1,0 +1,171 @@
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\appsettings.json
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.exe
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.deps.json
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.runtimeconfig.json
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.pdb
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfo.cs
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\scopedcss\bundle\Api-Image.styles.css
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CopyComplete
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\refint\Api-Image.dll
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.pdb
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.genruntimeconfig.cache
+C:\Users\marti\Desktop\Proyecto 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\ref\Api-Image.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\appsettings.Development.json
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\appsettings.json
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.exe
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.deps.json
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.runtimeconfig.json
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Api-Image.pdb
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.AssemblyReference.cache
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfoInputs.cache
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfo.cs
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CoreCompileInputs.cache
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\staticwebassets.build.json
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\staticwebassets.development.json
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\scopedcss\bundle\Api-Image.styles.css
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CopyComplete
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\refint\Api-Image.dll
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.pdb
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\Api-Image.genruntimeconfig.cache
+D:\Universidad-Sebastian\6. Sexto Semestre\Proyecto integrador\Proyecto Integrador 6 Semestre\FindergersOfficial\Api-Image\obj\Debug\net6.0\ref\Api-Image.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\appsettings.json
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.exe
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.deps.json
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.runtimeconfig.json
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.pdb
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfo.cs
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\scopedcss\bundle\Api-Image.styles.css
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CopyComplete
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\refint\Api-Image.dll
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.pdb
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.genruntimeconfig.cache
+C:\Users\marti\Desktop\DesAppBeta3.0\DesAppOfficial\Api-Image\obj\Debug\net6.0\ref\Api-Image.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\appsettings.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.exe
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.deps.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.runtimeconfig.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Api-Image.pdb
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfo.cs
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\scopedcss\bundle\Api-Image.styles.css
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CopyComplete
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\refint\Api-Image.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.pdb
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\Api-Image.genruntimeconfig.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppOfficial\Api-Image\obj\Debug\net6.0\ref\Api-Image.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\appsettings.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Api-Image.exe
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Api-Image.deps.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Api-Image.runtimeconfig.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Api-Image.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Api-Image.pdb
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.AssemblyInfo.cs
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\scopedcss\bundle\Api-Image.styles.css
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.csproj.CopyComplete
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\refint\Api-Image.dll
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.pdb
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\Api-Image.genruntimeconfig.cache
+C:\Users\marti\Desktop\DesAppFinal\DesAppFinal\Api-Image\obj\Debug\net6.0\ref\Api-Image.dll

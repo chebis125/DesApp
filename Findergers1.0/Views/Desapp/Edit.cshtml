@@ -1,0 +1,47 @@
+﻿@model Findergers1._0.Models.Missing
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Edit", "Desapp", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-12">
+            @Html.HiddenFor(d=>d.IdMissing)
+            <div>
+                @Html.LabelFor(d => d.NameMissing)
+                @Html.TextBoxFor(d => d.NameMissing, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.NameMissing, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.AgeMissing)
+                @Html.TextBoxFor(d => d.AgeMissing, "", new { @class = "form-control" })
+
+            </div>
+            <div>
+                @Html.LabelFor(d => d.DescriptionMissing)
+                @Html.TextBoxFor(d => d.DescriptionMissing, "", new { @class = "form-control" })
+
+            </div>
+            <div class="form-group">
+                <label asp-for="DateMissing" class="control-label"></label>
+                <input asp-for="DateMissing" class="form-control" />
+                <span asp-validation-for="DateMissing" class="text-danger"></span>
+            </div>
+            <div>
+                @Html.LabelFor(d => d.LastlocationMissing)
+                @Html.TextBoxFor(d => d.LastlocationMissing, "", new { @class = "form-control" })
+
+            </div>
+           
+
+
+            <div style="text-align:right;">
+                <input value="Save" class="btn btn-primary" type="submit" />
+            </div>
+        </div>
+    </div>
+
+}

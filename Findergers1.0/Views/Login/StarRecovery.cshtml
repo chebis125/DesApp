@@ -1,0 +1,30 @@
+﻿
+@model Findergers1._0.Models.Recovery
+@{
+    ViewBag.Title = "StarRecovery";
+   
+}
+
+<head>
+    <script src="~/js/alert.js"></script>
+    <link href="~/css/login-register/login.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="row">
+        <div class="col-md-6 offset-3">
+            <div class="form-style">
+                <form action="@Url.Content("~/Login/StarRecovery")" method="post">
+                    <label> Escribe tu correo electrónico</label>
+                    @Html.TextBoxFor(d => d.Email, null, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(d => d.Email, null, new { style = "color:red;" })
+                    <br />
+                    <div class="boton">
+                       
+                        <button onclick="alerta()" class="btn btn-primary">Recuperar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>

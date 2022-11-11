@@ -1,0 +1,93 @@
+﻿.palmapa {
+    
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    padding: 5px;
+}
+
+#mapa {
+    margin-top: 15px;
+    width: 1000px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+.enlace:hover {
+    width: 25%;
+    font-size: 19px;
+    color: #79DAE8;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: #6a6a6a;
+    margin-top: 100px;
+    font-weight: 100;
+}
+
+.card-content {
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    text-align: justify;
+    transition: all 0.25s;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+}
+
+.card img {
+    max-height: 350px;
+    width: 100%;
+}
+
+.contenedor-botones {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.boton {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 40px;
+    background: #141414;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    transition: .3s ease all;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+    .boton span {
+        position: relative;
+        z-index: 2;
+        transition: .3s ease all;
+    }
+
+    .boton.cuatro::after {
+        content: "";
+        width: 1px;
+        height: 1px;
+        background: none;
+        position: absolute;
+        z-index: 1;
+        top: 50%;
+        left: 50%;
+        transition: .3s ease-in-out all;
+    }
+
+    .boton.cuatro:hover::after {
+        transform: scale(400);
+        background: #009dff99;
+    }

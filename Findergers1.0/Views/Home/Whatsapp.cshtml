@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desapp</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pangolin&family=Special+Elite&display=swap" rel="stylesheet">
+    <link href="/img/logo.png" rel="icon" type="image/x-icon" />
+    <link rel="icon" src="@Url.Content("/img/logo.png")" />
+    <script>
+        function getNumber() {
+            var number = parseInt(document.getElementById('cellphone').value);
+            var url;
+
+            alert('The number obtained is: ' + number);
+            location.href = "https://wa.me/57" + number + "?text=Hola,%20tengo%20información%20que%20te%20podría%20interesar.";
+        }
+    </script>
+
+    <script>
+        function onlyNumbers(e) {
+            input = e.keyCode || e.which;
+
+            receiveKeyboard = String.fromCharCode(input);
+
+            validNumbers = "0123456789";
+            validSpecials = "8-37-38-46";
+            specialkeys = false;
+
+            for (var i in validSpecials) {
+                if (input == validSpecials[i]) {
+                    specialkeys = true;
+                }
+            }
+            if (validNumbers.indexOf(receiveKeyboard) == -1 && !specialkeys) {
+                return false;
+            }
+        }
+    </script>
+
+</head>
+<body class="bod">
+
+
+
+    <center><h1 style="color:white">Sending Message via Whatsapp</h1></center>
+    <p></p>
+    <center><img src="https://www.unipile.com/wp-content/uploads/2022/02/icone-logo-whatsapp-vert.png" alt="" style="width:200px; height:200px;" /></center>
+    <p></p>
+    <center>
+        <form name="input">
+
+            <label class="l" style="color:white">Please enter the number: </label>
+            <input type="text" name="cellphone" id="cellphone" onkeypress="return onlyNumbers(event)" style="border-radius:10px;" placeholder="Ex: 3138329143">
+            <button class="co" type="button" onclick="getNumber()">Confirm</button>
+            <input class="c" type="reset" value="Clear">
+
+        </form>
+    </center>
+
+    <style>
+        .bod {
+            background-color: #075e54;
+            font-family: 'Pangolin', cursive;
+        }
+
+        .c {
+            width: 100px;
+            background-color: red;
+            border-radius: 10px;
+            padding: 2px 15px;
+            color: white;
+            text-decoration: none;
+        }
+
+            .c:hover {
+                background-color: white;
+                color: red;
+                border: 2px solid red;
+            }
+
+        .co {
+            width: 100px;
+            background-color: #1DB954;
+            border-radius: 10px;
+            padding: 2px 15px;
+            color: white;
+            text-decoration: none;
+        }
+
+            .co:hover {
+                background-color: white;
+                color: #25D366;
+                border: 2px solid #25D366;
+            }
+    </style>
+</body>
+</html>

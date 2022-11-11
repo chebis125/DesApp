@@ -1,0 +1,108 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Special+Elite&display=swap');
+
+body {
+    background-color: #1F1C2C;
+    font-family: 'Pangolin', cursive;
+}
+
+.block {
+    width: 40%;
+    background: #fff;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.caja-chat {
+    width: 90%;
+    height: 100%;
+}
+
+.datos-chat {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid silver;
+    font-weight: bold;
+}
+
+input[type='text'] {
+    width: 100%;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+textarea {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+}
+
+input, textarea {
+    margin-bottom: 3px;
+}
+
+.botones {
+    width: 100%;
+    height: 100px;
+    background-color: #1F1C2C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+:root {
+    --primaryColor1: rgb(26, 250, 216);
+    --primaryColor2: #ffffff;
+    --primaryColor3: #1da92b;
+}
+
+.btn, .btn:hover {
+    position: relative;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding: 20px 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+#sendToUser, #sendToUser:hover {
+    color: #1F1C2C;
+    background-color: var(--primaryColor1);
+    border: 1px solid var(--primaryColor1);
+    box-shadow: 1px 1px 20px 8px var(--primaryColor1);
+}
+
+#sendToUser {
+    background-color: transparent;
+    color: var(--primaryColor1);
+    box-shadow: none;
+}
+
+#sendButton, #sendButton:hover {
+    color: #1F1C2C;
+    background-color: var(--primaryColor2);
+    border: 1px solid var(--primaryColor2);
+    box-shadow: 1px 1px 20px 8px var(--primaryColor2);
+}
+
+#sendButton {
+    background-color: transparent;
+    color: var(--primaryColor2);
+    box-shadow: none;
+}
+
+#Whatsapp, #Whatsapp:hover {
+    color: #1F1C2C;
+    background-color: var(--primaryColor3);
+    border: 1px solid var(--primaryColor3);
+    box-shadow: 1px 1px 20px 8px var(--primaryColor3);
+}
+
+#Whatsapp {
+    background-color: transparent;
+    color: var(--primaryColor3);
+    box-shadow: none;
+}

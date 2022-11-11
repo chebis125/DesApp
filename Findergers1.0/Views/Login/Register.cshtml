@@ -1,0 +1,122 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Findergers1._0.Models.Register
+
+@{
+    Layout = null;
+}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="~/css/Login-Register/stylesRegister.css" rel="stylesheet" />
+    <link href="/img/logo.png" rel="icon" type="image/x-icon" />
+    <link rel="icon" src="@Url.Content("/img/logo.png")" />
+</head>
+<body>
+
+
+
+    <main>
+        <div class="titulo_1">
+            REGISTER
+        </div>
+        <div class="titulo">
+            REGISTER
+        </div>
+        <!--<p class="text">
+          Forgotten your password or you login datails?
+          <a href="#">Get help</a> signing in
+        </p>-->
+        <form action="@Url.Action("Register","Login")" class="formulario" id="formulario" method="post">
+            <!-- Grupo: First Name -->
+            <div class="formulario__grupo" id="grupo__FristName">
+                <label for="FristName" class="formulario__label">First Name</label>
+                <div class="formulario__grupo-input">
+                    <input type="text" class="formulario__input" name="FristName" id="FristName" placeholder="Lucho">
+                    <i class="formulario__validacion-estado fas fa-times-circle"></i>
+                </div>
+                <p class="formulario__input-error">Write your real name this can have a maximum of 40 characters, and dont have numbers.</p>
+            </div>
+
+            <!-- Grupo: Last Name -->
+            <div class="formulario__grupo" id="grupo__LastName">
+                <label for="LastName" class="formulario__label">Last Name</label>
+                <div class="formulario__grupo-input">
+                    <input type="text" class="formulario__input" name="LastName" id="LastName" placeholder="Díaz">
+                    <i class="formulario__validacion-estado fas fa-times-circle"></i>
+                </div>
+                <p class="formulario__input-error">Write your real lastname this can have a maximum of 40 characters, and dont have numbers.</p>
+            </div>
+
+            <!-- Grupo: Username -->
+            <div class="formulario__grupo" id="grupo__Username">
+                <label for="Username" class="formulario__label">Username</label>
+                <div class="formulario__grupo-input">
+                    <input type="text" class="formulario__input" name="Username" id="Username" placeholder="LuchitoDiaz">
+                    <i class="formulario__validacion-estado fas fa-times-circle"></i>
+                </div>
+                <p class="formulario__input-error">The username can take letters, numbers and can not take accents.</p>
+            </div>
+
+            <!-- Grupo: Password -->
+            <div class="formulario__grupo" id="grupo__Password">
+                <label for="Password" class="formulario__label">Password</label>
+                <div class="formulario__grupo-input">
+                    <input type="password" class="formulario__input" name="Password" id="Password">
+                    <i class="formulario__validacion-estado fas fa-times-circle"></i>
+                </div>
+                <p class="formulario__input-error">Insert a password with 4 to 16 characters.</p>
+            </div>
+
+            <!-- Grupo: Email -->
+            <div class="formulario__grupo" id="grupo__Email">
+                <label for="Email" class="formulario__label">Email</label>
+                <div class="formulario__grupo-input">
+                    <input type="Email" class="formulario__input" name="Email" id="Email" placeholder="luchoelcrack23@gmail.com">
+                    <i class="formulario__validacion-estado fas fa-times-circle"></i>
+                </div>
+                <p class="formulario__input-error">The email must be one that exists where you can communicate.</p>
+            </div>
+
+            <!-- Grupo: Phone -->
+            <div class="formulario__grupo" id="grupo__Phone">
+                <label for="Phone" class="formulario__label">Phone</label>
+                <div class="formulario__grupo-input">
+                    <input type="text" class="formulario__input" name="Phone" id="Phone" placeholder="3221234587  ">
+                    <i class="formulario__validacion-estado fas fa-times-circle"></i>
+                </div>
+                <p class="formulario__input-error">Must have 10 numbers to be a phone.</p>
+            </div>
+
+            <!-- Grupo: Terms and Conditions -->
+            <div class="formulario__grupo" id="grupo__terminos">
+                <label class="formulario__label">
+                    <div class="hola">
+                        <input class="formulario__checkbox" type="checkbox" name="terminos" id="terminos">
+                        I accept the terms and conditions
+                    </div>
+                </label>
+            </div>
+
+            <div class="formulario__mensaje" id="formulario__mensaje">
+                <p><i class="fas fa-exclamation-triangle"></i> <b>Error:</b> Please fill out the form correctly. </p>
+            </div>
+
+            <div class="formulario__grupo formulario__grupo-btn-enviar">
+                <button type="submit" name="button" class="formulario__btn" id="btn">Enviar</button>
+                <p class="formulario__mensaje-exito" id="formulario__mensaje-exito">The fill is send correctly!</p>
+            </div>
+        </form>
+    </main>
+    <script src="~/js/Login-Register/appRegister.js"></script>
+    <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+</body>
+</html>
