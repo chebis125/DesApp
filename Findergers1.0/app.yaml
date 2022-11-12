@@ -13,5 +13,7 @@ resources:
   disk_size_gb: 10
 
 env_variables:
-  # The __ in My__Greeting will be translated to a : by ASP.NET.
-  My__Greeting: Hello AppEngine!
+CLOUD_SQL_USERNAME: sqlserver
+CLOUD_SQL_PASSWORD: desapp
+CLOUD_SQL_DATABASE_NAME: DesappDB
+CLOUD_SQL_CONNECTION_NAME: desapp-368320:us-east1:desapp-instance
